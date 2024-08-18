@@ -4,6 +4,7 @@ Python version of https://github.com/eternal-io/museair
 ## What's this?
 It's a simple implementation of museair [薄纱！高中生编写的哈希算法超越了先前的所有算法！(合作 K--Aethiax&Twilight-Dream) 王一大佬你在看嘛？ [2024-08-16]
 ](https://www.bilibili.com/video/BV1vTeuefEHN).
+
 Completely converted from the original Rust code, no optimizations were made to the Python version of the code.
 
 ## How to use?
