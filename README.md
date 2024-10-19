@@ -7,16 +7,7 @@ It's a simple implementation of museair [薄纱！高中生编写的哈希算法
 
 Completely converted from the original Rust code, no optimizations were made to the Python version of the code.
 
-## How to use?
-1. Move museair.py to your project root and add this code to your code:
-```python
-import museair
-```
-or
-```python
-from museair import hash,hash128,hash_BFAST,hash128_BFAST
-```
-2. Example
+## Example
 ```python
 from museair import hash
 data = bytes(range(1,17))
